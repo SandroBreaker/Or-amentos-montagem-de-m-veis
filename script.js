@@ -1,4 +1,4 @@
-const scriptURL = "https://script.google.com/macros/s/AKfycby5jJ1HVc3lKdjQqImNVZfzuTvSRlIa3MtmZFmuuVR8AztTiQ2VwJejsshgwfsVonnP/exec";
+const scriptURL = "https://script.google.com/macros/s/AKfycbwTjmfUd-_Nx_1Tcpsu1EQINJB8RxwGWLrkT1FQhQ_WFlg_P6Ov0gAiA3Gx8OkMBbU/exec";
 const cardNotif = document.getElementById('cardNotif');
 
 // Função para exibir card de notificação
