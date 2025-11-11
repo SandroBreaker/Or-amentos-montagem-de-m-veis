@@ -32,7 +32,7 @@ document.getElementById('formOrcamento').addEventListener('submit', e => {
     if(r.sucesso){
       showCard('Pedido enviado com sucesso!');
       form.reset();
-      window.open(`https://wa.me/5511968036476?text=Olá, recebi o orçamento do site.`, '_blank');
+      window.open(`https://wa.me/551111954558195?text=Olá, acabei de solicitar um orçamento pelo seu site. Aguardo seu retorno.`, '_blank');
     } else {
       showCard('Erro ao enviar: ' + r.erro);
     }
